@@ -1,0 +1,34 @@
+<h2>Incorrectly overridden methods</h2>
+<html>
+ <head></head>
+ <body>
+  <p>Here's a class and its subclass:</p> 
+  <p> </p> 
+  <pre><code class="language-java">class A {
+    
+    public A method1() { return new A(); }
+    
+    public B method2() { return new B(); }
+    
+    public A method3(A a) { return a; } 
+    
+    public B method4() { return new B(); }
+    
+}
+
+class B extends A {
+    
+    @Override
+    public B method1() { return new B(); }
+    
+    @Override
+    public B method2() { return new B(); }
+    
+    public A method3(A a) { return a; } 
+    
+    public A method4() { return new A(); }
+}</code></pre> 
+  <p> </p> 
+  <p>Select a method of the class <code class="language-java">A</code> that is incorrectly overridden in the class <code class="language-java">B</code>.</p>
+ </body>
+</html>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Battleship1.Battleship-task-build-classes-java.main" target="11" />
+      <module name="Battleship1.Battleship-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Battleship1.Battleship-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Battleship1.Battleship-task-build-reports-tests.main" target="11" />
+      <module name="Battleship1.Battleship-task-build-test-results.main" target="11" />
+      <module name="Battleship1.Battleship-task-build-tmp.main" target="11" />
+      <module name="Battleship1.Battleship-task.main" target="11" />
+      <module name="Battleship1.Topics-Abstract_class-About_abstract_classes.main" target="11" />
+      <module name="Battleship1.Topics-Abstract_class-An_incorrect_statement.main" target="11" />
+      <module name="Battleship1.Topics-Abstract_class-Correct_statements.main" target="11" />
+      <module name="Battleship1.Topics-Abstract_class-Shape_hierarchy.main" target="11" />
+      <module name="Battleship1.Topics-Abstract_class-Theory.main" target="11" />
+      <module name="Battleship1.Topics-Abstract_class-Users_and_WebSites.main" target="11" />
+      <module name="Battleship1.Topics-Hiding_and_overriding-Employee_and_Programmer.main" target="11" />
+      <module name="Battleship1.Topics-Hiding_and_overriding-Incorrectly_overridden_methods.main" target="11" />
+      <module name="Battleship1.Topics-Hiding_and_overriding-Publications.main" target="11" />
+      <module name="Battleship1.Topics-Hiding_and_overriding-Rules_for_overriding.main" target="11" />
+      <module name="Battleship1.Topics-Hiding_and_overriding-Saying_animals.main" target="11" />
+      <module name="Battleship1.Topics-Hiding_and_overriding-Shapes_area.main" target="11" />
+      <module name="Battleship1.Topics-Hiding_and_overriding-Statements.main" target="11" />
+      <module name="Battleship1.Topics-Hiding_and_overriding-Theory.main" target="11" />
+      <module name="Battleship1.Topics-Polymorphism-Find_mistake.main" target="11" />
+      <module name="Battleship1.Topics-Polymorphism-Notification.main" target="11" />
+      <module name="Battleship1.Topics-Polymorphism-Publication_and_its_subclasses.main" target="11" />
+      <module name="Battleship1.Topics-Polymorphism-Runtime_method_resolution.main" target="11" />
+      <module name="Battleship1.Topics-Polymorphism-Runtime_polymorphic_behavior.main" target="11" />
+      <module name="Battleship1.Topics-Polymorphism-Statements.main" target="11" />
+      <module name="Battleship1.Topics-Polymorphism-Superclass_method_call.main" target="11" />
+      <module name="Battleship1.Topics-Polymorphism-The_time_of_overloading.main" target="11" />
+      <module name="Battleship1.Topics-Polymorphism-Theory.main" target="11" />
+      <module name="Battleship1.Topics-Polymorphism-Type_of_polymorphism.main" target="11" />
+      <module name="Battleship1.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
